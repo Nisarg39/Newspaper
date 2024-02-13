@@ -7,6 +7,8 @@ Best example for React Navigation, NativeBase UI Library, Custom Google Fonts.
 
 Demo - https://youtube.com/shorts/MU6TZokAUms?si=hmzHyVZjGhLs1Dxn
 
+Code Summary - https://youtu.be/Yc293cRX21Q
+
 ## Run Locally
 
 Clone the project
